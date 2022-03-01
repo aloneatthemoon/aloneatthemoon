@@ -1,9 +1,9 @@
-# Hey there, I'm [aloneatthemoon](#) 👋
+## Hey there, I'm [aloneatthemoon](#) 👋
 
 ## I'm a Friend, Student and Developer!
 
 - 🌱 I’m currently learning ReactJS 😯
-- 🎯 2022 Goals: Learn!
+- 🎯 2022 Goals: Learn even more!
 - ⚡ Fun fact: I love to read and watch movies 🎥
 
 ### Let's talk:
@@ -28,7 +28,6 @@
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JetBrains" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/docker/docker-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Jenkins" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jenkins/jenkins-original.svg" style="padding-right:10px;" />
