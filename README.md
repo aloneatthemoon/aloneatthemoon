@@ -6,17 +6,7 @@
 - 🎯 2022 Goals: Learn even more!
 - ⚡ Fun fact: I love to read and watch movies 🎥
 
-### Let's talk:
-
-[![website](./img/globe-light.svg)](#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/#gh-dark-mode-only)
-&nbsp;&nbsp;
+---
 
 ### Languages and Tools:
 
