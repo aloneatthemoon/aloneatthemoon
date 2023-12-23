@@ -3,7 +3,7 @@
 ## I'm a Friend, Student and Developer!
 
 - 🌱 I’m currently learning ReactJS 😯
-- 🎯 2022 Goals: Learn even more!
+- 🎯 2024 Goals: Learn even more!
 - ⚡ Fun fact: I love to read and watch movies 🎥
 
 ---
